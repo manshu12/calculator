@@ -1,0 +1,15 @@
+#num1 {
+	padding: 14px;
+	font-weight: bolder;
+	font-size: 25px;
+	width: 35%;
+	border-radius: 20px;
+}
+#num1:focus, {
+	outline: none;
+	border: 2px solid #ccc;
+	background-color: white;
+}
+button:focus {
+    outline: none;
+}
