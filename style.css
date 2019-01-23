@@ -1,9 +1,11 @@
 #num1 {
-	padding: 14px;
+	padding: 20px;
 	font-weight: bolder;
 	font-size: 25px;
-	width: 35%;
+	width: 40%;
 	border-radius: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 }
 #num1:focus, {
 	outline: none;
